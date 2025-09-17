@@ -5,10 +5,10 @@ I am a lifelong learner and aspiring polymath from Bangladesh 🇧🇩, driven b
 
 As a philomath, I thrive on structured exploration, rigorous problem-solving, and the art of connecting ideas across domains. Whether I'm refining algorithms on LeetCode, building portable development environments, or crafting intuitive UI assets, I approach each challenge with intentionality, precision, and a commitment to ethical clarity.
 
-### 🧠 LeetCode Stats
+### LeetCode Stats
 ![LeetCode Card](https://leetcard.jacoblin.cool/muntasiractive?ext=heatmap)
 
-### 🚀 Goals
+### Goals
 
 - Build consistency with daily problem solving
 - Master data structures and algorithms
