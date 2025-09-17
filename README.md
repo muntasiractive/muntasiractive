@@ -1,10 +1,10 @@
 ## 👋 Hello, I'm Muntasir
 🌐 Website: [muntasir.site](https://www.muntasir.site)
+
 I'm a passionate problem solver and aspiring software developer from Bangladesh 🇧🇩. I love tackling algorithmic challenges and continuously improving my coding skills through platforms like LeetCode.
 
 ### 🧠 LeetCode Stats
-
-![LeetCode Card](https://leetcard.jacoblin.cool/muntasiractive?ext=activity)
+![LeetCode Card](https://leetcard.jacoblin.cool/muntasiractive?ext=heatmap)
 
 ### 🚀 Goals
 
