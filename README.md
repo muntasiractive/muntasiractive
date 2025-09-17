@@ -1,4 +1,4 @@
-## 👋 Hello, I'm Muntasir
+## This is Muntasir
 [![Visit My Website](https://img.shields.io/badge/Visit%20My%20Website-1a1a1a?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.muntasir.site)
 
 I am a lifelong learner and aspiring polymath from Bangladesh 🇧🇩, driven by a deep intellectual curiosity across disciplines. My journey spans computer science, mathematics, classical physics, and design—each pursued not merely for academic achievement but for meaningful application and synthesis.
