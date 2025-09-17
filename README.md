@@ -1,16 +1,19 @@
-## Hi there 👋
+## 👋 Hello, I'm Muntasir
+🌐 Website: [muntasir.site](https://www.muntasir.site)
+I'm a passionate problem solver and aspiring software developer from Bangladesh 🇧🇩. I love tackling algorithmic challenges and continuously improving my coding skills through platforms like LeetCode.
 
-<!--
-**muntasiractive/muntasiractive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧠 LeetCode Stats
 
-Here are some ideas to get you started:
+![LeetCode Card](https://leetcard.jacoblin.cool/muntasiractive?ext=activity)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Goals
+
+- Build consistency with daily problem solving
+- Master data structures and algorithms
+- Contribute to open-source projects
+- Share learnings through blogs and tutorials
+
+---
+
+📫 Feel free to connect or collaborate!
+
