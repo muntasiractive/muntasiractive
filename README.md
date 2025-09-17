@@ -1,5 +1,5 @@
 ## 👋 Hello, I'm Muntasir
-🌐 Website: [muntasir.site](https://www.muntasir.site)
+[![Visit My Website](https://img.shields.io/badge/Visit%20My%20Website-1a1a1a?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.muntasir.site)
 
 I'm a passionate problem solver and aspiring software developer from Bangladesh 🇧🇩. I love tackling algorithmic challenges and continuously improving my coding skills through platforms like LeetCode.
 
