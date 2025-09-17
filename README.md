@@ -12,6 +12,7 @@ As a philomath, I thrive on structured exploration, rigorous problem-solving, an
 ---
 
 Feel free to connect or collaborate!
+
 [![Email Me](https://img.shields.io/badge/Email%20Me-1a1a1a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muntasiractive@gmail.com)
 
 
