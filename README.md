@@ -8,14 +8,11 @@ As a philomath, I thrive on structured exploration, rigorous problem-solving, an
 ### LeetCode Stats
 ![LeetCode Card](https://leetcard.jacoblin.cool/muntasiractive?ext=heatmap)
 
-### Goals
-
-- Build consistency with daily problem solving
-- Master data structures and algorithms
-- Contribute to open-source projects
-- Share learnings through blogs and tutorials
 
 ---
 
-📫 Feel free to connect or collaborate!
+Feel free to connect or collaborate!
+[![Email Me](https://img.shields.io/badge/Email%20Me-1a1a1a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muntasiractive@gmail.com)
+
+
 
