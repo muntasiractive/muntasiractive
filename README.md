@@ -1,5 +1,9 @@
 <h1 align="center">This is Muntasir</h1>
-<h3 align="center">Philomath | Explorer | Observer</h3>
+<h3 align="center">
+  <span style="color:#25aff3">Philomath</span> |
+  <span style="color:#ff0000">Explorer</span> |
+  <span style="color:#6dac3b">Observer</span>
+</h3>
 
 
 [![Visit My Website](https://img.shields.io/badge/Visit%20My%20Website-1a1a1a?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.muntasir.site)    
