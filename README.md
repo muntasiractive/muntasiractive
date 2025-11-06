@@ -7,12 +7,18 @@
 
 [![Visit My Website](https://img.shields.io/badge/Visit%20My%20Website-1a1a1a?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.muntasir.site)    
 
+[![Email Me](https://img.shields.io/badge/Email%20Me-1a1a1a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muntasiractive@gmail.com)
+
 I am a lifelong learner and aspiring polymath from Bangladesh 🇧🇩, driven by a deep intellectual curiosity across disciplines. My journey spans computer science, mathematics, classical physics, and design—each pursued not merely for academic achievement but for meaningful application and synthesis.
 
 As a philomath, I thrive on structured exploration, rigorous problem-solving, and the art of connecting ideas across domains. Whether I'm refining algorithms on LeetCode, building portable development environments, or crafting intuitive UI assets, I approach each challenge with intentionality, precision, and a commitment to ethical clarity.
 
 ---
 ![LeetCode Card](https://leetcard.jacoblin.cool/muntasiractive?ext=heatmap)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muntasiractive&show_icons=true&locale=en&layout=compact" alt="muntasiractive" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muntasiractive&show_icons=true&locale=en" alt="muntasiractive" /></p>
 
 ![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?muntasiractive=redheadphone) 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muntasiractive&label=Profile%20views&color=009dff&style=flat" alt="muntasiractive" /> </p>
@@ -45,8 +51,6 @@ As a philomath, I thrive on structured exploration, rigorous problem-solving, an
 ---
 
 Feel free to connect or collaborate!
-
-[![Email Me](https://img.shields.io/badge/Email%20Me-1a1a1a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muntasiractive@gmail.com)
 
 
 
