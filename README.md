@@ -7,8 +7,7 @@
 
 [![Visit My Website](https://img.shields.io/badge/Visit%20My%20Website-1a1a1a?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.muntasir.site)    
 
-![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?muntasiractive=redheadphone)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muntasiractive&label=Profile%20views&color=009dff&style=flat" alt="muntasiractive" /> </p>
+![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?muntasiractive=redheadphone) <p align="left"> <img src="https://komarev.com/ghpvc/?username=muntasiractive&label=Profile%20views&color=009dff&style=flat" alt="muntasiractive" /> </p>
 
 I am a lifelong learner and aspiring polymath from Bangladesh 🇧🇩, driven by a deep intellectual curiosity across disciplines. My journey spans computer science, mathematics, classical physics, and design—each pursued not merely for academic achievement but for meaningful application and synthesis.
 
