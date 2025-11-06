@@ -13,6 +13,7 @@ As a philomath, I thrive on structured exploration, rigorous problem-solving, an
 
 ---
 ![LeetCode Card](https://leetcard.jacoblin.cool/muntasiractive?ext=heatmap)
+
 ![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?muntasiractive=redheadphone) 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muntasiractive&label=Profile%20views&color=009dff&style=flat" alt="muntasiractive" /> </p>
 <p align="left"> <a href="https://twitter.com/muntasiractive" target="blank"><img src="https://img.shields.io/twitter/follow/muntasiractive?logo=twitter&style=for-the-badge" alt="muntasiractive" /></a> </p>
