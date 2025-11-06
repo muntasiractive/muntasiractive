@@ -14,13 +14,15 @@ I am a lifelong learner and aspiring polymath from Bangladesh 🇧🇩, driven b
 As a philomath, I thrive on structured exploration, rigorous problem-solving, and the art of connecting ideas across domains. Whether I'm refining algorithms on LeetCode, building portable development environments, or crafting intuitive UI assets, I approach each challenge with intentionality, precision, and a commitment to ethical clarity.
 
 ---
+![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?muntasiractive=redheadphone) 
+
 ![LeetCode Card](https://leetcard.jacoblin.cool/muntasiractive?ext=heatmap)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muntasiractive&show_icons=true&locale=en&layout=compact" alt="muntasiractive" /></p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muntasiractive&show_icons=true&locale=en" alt="muntasiractive" /></p>
 
-![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?muntasiractive=redheadphone) 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muntasiractive&label=Profile%20views&color=009dff&style=flat" alt="muntasiractive" /> </p>
 <p align="left"> <a href="https://twitter.com/muntasiractive" target="blank"><img src="https://img.shields.io/twitter/follow/muntasiractive?logo=twitter&style=for-the-badge" alt="muntasiractive" /></a> </p>
 <h3 align="left">Connect with me:</h3>
