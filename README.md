@@ -21,7 +21,7 @@ As a philomath, I thrive on structured exploration, rigorous problem-solving, an
 <h3 align="center">Connect with me</h3>
 <p align="center">
 <a href="https://linkedin.com/in/muntasiractive" target="blank"><img src="https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=white" alt="muntasiractive" /></a>
-<a href="https://stackoverflow.com/users/muntasiractive" target="blank"><img src="https://img.shields.io/badge/Stack_Overflow-1a1a1a?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="muntasiractive" /></a>
+<a href="https://stackoverflow.com/users/31825546/muntasiractive" target="blank"><img src="https://img.shields.io/badge/Stack_Overflow-1a1a1a?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="muntasiractive" /></a>
 <a href="https://kaggle.com/muntasiractive" target="blank"><img src="https://img.shields.io/badge/Kaggle-1a1a1a?style=for-the-badge&logo=kaggle&logoColor=white" alt="muntasiractive" /></a>
 <a href="https://www.codechef.com/users/muntasiractive" target="blank"><img src="https://img.shields.io/badge/CodeChef-1a1a1a?style=for-the-badge&logo=codechef&logoColor=white" alt="muntasiractive" /></a>
 <a href="https://codeforces.com/profile/muntasiractive" target="blank"><img src="https://img.shields.io/badge/Codeforces-1a1a1a?style=for-the-badge&logo=codeforces&logoColor=white" alt="muntasiractive" /></a>
