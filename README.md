@@ -76,4 +76,4 @@ Whether refining algorithms on **LeetCode**, building portable dev environments,
 <h2 align="center">
   <i style="color:#8B898B;"></span>📢 Let's Work Together<span style="color:#25aff3;">.</span></i>
 </h2>
-Feel free to connect or collaborate on projects, research, or creative ideas!
+<p align="center">Feel free to connect or collaborate on projects, research, or creative ideas! </p>
