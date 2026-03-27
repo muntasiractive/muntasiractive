@@ -1,7 +1,5 @@
+[![Cover](https://raw.githubusercontent.com/joy242-15-740/random/refs/heads/main/cover/muntasir/cover(lg).png)](https://www.muntasir.site/)
 <h1 align="center">This is Muntasir</h1>
-<h2 align="center">
-  <i style="color:#8B898B;">Let's <span style="color:#FF1111;">Create</span> Something Amazing<span style="color:#25aff3;">.</span></i>
-</h2>
 <h3 align="center">
   <span style="color:#25aff3;">Philomath</span> • 
   <span style="color:#ff0000;">Explorer</span> • 
@@ -17,6 +15,7 @@
   <img src="https://codeforces-readme-stats.vercel.app/api/badge?muntasiractive=redheadphone" alt="Codeforces Badge" />
   <img src="https://komarev.com/ghpvc/?username=muntasiractive&label=Profile%20views&color=009dff&style=flat" alt="Profile views" />
 </p>
+
 
 ---
 
