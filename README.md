@@ -59,15 +59,6 @@ I am a **philomath, explorer, and observer** from Bangladesh 🇧🇩. As a **Br
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muntasiractive&show_icons=true&theme=transparent&hide_border=true" alt="Muntasir's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muntasiractive&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" height="150" />
-</p>
-
----
-
 ### 🤝 Let's Work Together
 
 I am always open to collaborating on innovative projects, research, or creative ventures. If you're looking for **workflow architecture, high-end web development, or brand optimization**, feel free to reach out.
