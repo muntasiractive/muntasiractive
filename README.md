@@ -20,7 +20,7 @@
 
 I am a **philomath, explorer, and observer** from Bangladesh 🇧🇩. As a **Branding and Workflow Architect**, I specialize in creating scalable solutions that blend technical precision with creative problem-solving. My work focuses on workflow optimization, design architecture, and high-performance web development.
 
-- 🛠️ **Founder & Chairperson of [Noor](https://muntasir.site)** - Leading technical and branding strategies.
+- 🛠️ **Founder & Chairperson of [Noor Global](https://noorglobal.page)** - Leading technical and branding strategies.
 - ⚡ **Software Engineering** - Focused on algorithms, system design, and performance.
 - 🎨 **Creative Design** - Crafting intuitive user assets and brand identities.
 - 🤖 **Automation** - Architecting workflows that bridge the gap between idea and execution.
