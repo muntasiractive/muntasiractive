@@ -1,78 +1,77 @@
 [![Cover](https://raw.githubusercontent.com/joy242-15-740/random/refs/heads/main/cover/muntasir/cover(lg).png)](https://www.muntasir.site/)
-<h1 align="center">This is Muntasir</h1>
-<h3 align="center">
-  <span style="color:#25aff3;">Philomath</span> • 
-  <span style="color:#ff0000;">Explorer</span> • 
-  <span style="color:#6dac3b;">Observer</span>
-</h3>
 
-<p align="center">
-  <a href="https://www.muntasir.site"><img src="https://img.shields.io/badge/Visit%20My%20Website-1a1a1a?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="mailto:muntasiractive@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-1a1a1a?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/badge?muntasiractive=redheadphone" alt="Codeforces Badge" />
-  <img src="https://komarev.com/ghpvc/?username=muntasiractive&label=Profile%20views&color=009dff&style=flat" alt="Profile views" />
-</p>
+# Mohammed Muntasir Rahman Joy
 
+### Full Stack Developer • Workflow Architect • Creative Technologist
+
+[![Website](https://img.shields.io/badge/muntasir.site-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://muntasir.site)
+[![Gmail](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muntasiractive@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muntasiractive)
 
 ---
+
+> "Building high-performance digital experiences with a zero-bloat philosophy."
+
+</div>
 
 ### 🌍 About Me
-I am a lifelong learner and aspiring polymath from Bangladesh 🇧🇩, driven by deep curiosity across disciplines.  
-My journey spans **computer science, mathematics, classical physics, and design**—pursued not just for academic achievement but for meaningful application and synthesis.
 
-As a philomath, I thrive on:
-- Structured exploration  
-- Rigorous problem-solving  
-- Connecting ideas across domains  
+I am a **philomath, explorer, and observer** from Bangladesh 🇧🇩. As a **Branding and Workflow Architect**, I specialize in creating scalable solutions that blend technical precision with creative problem-solving. My work focuses on workflow optimization, design architecture, and high-performance web development.
 
-Whether refining algorithms on **LeetCode**, building portable dev environments, or crafting intuitive UI assets, I approach each challenge with **intentionality, precision, and ethical clarity**.
+- 🛠️ **Founder & Chairperson of [Noor](https://muntasir.site)** - Leading technical and branding strategies.
+- ⚡ **Software Engineering** - Focused on algorithms, system design, and performance.
+- 🎨 **Creative Design** - Crafting intuitive user assets and brand identities.
+- 🤖 **Automation** - Architecting workflows that bridge the gap between idea and execution.
 
 ---
 
-### 🤝 Connect With Me
+### 🚀 Operational Expertise
+
+#### 💻 Languages & Logic
+
+![ C ](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![ C++ ](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B+&logoColor=white) ![ Python ](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![ JavaScript ](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![ TypeScript ](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![ Rust ](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![ Java ](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) ![ Kotlin ](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![ MATLAB ](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=matlab&logoColor=white) ![ Dart ](https://img.shields.io/badge/Dart-01579B?style=flat-square&logo=dart&logoColor=white) ![ Json ](https://img.shields.io/badge/Json-FFF?style=flat-square&logo=json&logoColor=white) ![ XML ](https://img.shields.io/badge/XML-AE007F?style=flat-square&logo=xml&logoColor=white) ![ Embedded C ](https://img.shields.io/badge/Embedded%20C-B3B3B3?style=flat-square&logo=embedded-c&logoColor=white)
+
+#### 🎨 Frontend & Design
+
+![ React ](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white) ![ Next.js ](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![ HTML5 ](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![ CSS3 ](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![ Tailwind CSS ](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white) ![ Redux ](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white) ![ Three.js ](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white) ![ WebGL ](https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white) ![ SolidJS ](https://img.shields.io/badge/SolidJS-2C4F7C?style=flat-square&logo=solidjs&logoColor=white) ![ Preact ](https://img.shields.io/badge/Preact-673AB8?style=flat-square&logo=preact&logoColor=white) ![ Framer Motion ](https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer-motion&logoColor=white) ![ Shadcn UI ](https://img.shields.io/badge/Shadcn%20UI-000000?style=flat-square&logo=shadcn-ui&logoColor=white) ![ Ant Design ](https://img.shields.io/badge/Ant%20Design-0170FE?style=flat-square&logo=ant-design&logoColor=white) ![ DaisyUI ](https://img.shields.io/badge/DaisyUI-5A0EF8?style=flat-square&logo=daisyui&logoColor=white) ![ GSAP ](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=gsap&logoColor=white) ![ Lottie ](https://img.shields.io/badge/Lottie-00DDB3?style=flat-square&logo=lottie&logoColor=white) ![ TanStack ](https://img.shields.io/badge/TanStack-FF4154?style=flat-square&logo=tanstack&logoColor=white) ![ Lenis ](https://img.shields.io/badge/Lenis-000000?style=flat-square&logo=lenis&logoColor=white) ![ Barba.js ](https://img.shields.io/badge/Barba.js-F6B93B?style=flat-square&logo=barbadotjs&logoColor=white) ![ Bootstrap5 ](https://img.shields.io/badge/Bootstrap5-9013FE?style=flat-square&logo=bootstrap5&logoColor=white) ![ Materialui ](https://img.shields.io/badge/Materialui-00B0FF?style=flat-square&logo=materialui&logoColor=white) ![ Elementui ](https://img.shields.io/badge/Elementui-409EFF?style=flat-square&logo=elementui&logoColor=white) ![ Vite.js ](https://img.shields.io/badge/Vite.js-41D1FF?style=flat-square&logo=vitedotjs&logoColor=white) ![ PostCSS ](https://img.shields.io/badge/PostCSS-DD3735?style=flat-square&logo=postcss&logoColor=white) ![ Sass ](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+
+#### ⚙️ Backend & Database
+
+![ Node.js ](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![ Express ](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![ Django ](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![ MongoDB ](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![ PostgreSQL ](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![ Redis ](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![ H2 Database ](https://img.shields.io/badge/H2%20Database-0000BB?style=flat-square&logo=h2-database&logoColor=white) ![ Firebase ](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white) ![ Mysql ](https://img.shields.io/badge/Mysql-00758F?style=flat-square&logo=mysql&logoColor=white) ![ Spring Boot ](https://img.shields.io/badge/Spring%20Boot-6CB52D?style=flat-square&logo=spring-boot&logoColor=white) ![ Supabase ](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![ Railway ](https://img.shields.io/badge/Railway-000?style=flat-square&logo=railway&logoColor=white) ![ RabbitMQ ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white) ![ Oracle ](https://img.shields.io/badge/Oracle-EA1B22?style=flat-square&logo=oracle&logoColor=white) ![ FastAPI ](https://img.shields.io/badge/FastAPI-049688?style=flat-square&logo=fastapi&logoColor=white)
+
+#### 🤖 AI, Data & Math
+
+![ Mathematica ](https://img.shields.io/badge/Mathematica-DD1100?style=flat-square&logo=mathematica&logoColor=white) ![ LaTeX ](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white) ![ Colab ](https://img.shields.io/badge/Colab-E8710A?style=flat-square&logo=colab&logoColor=white) ![ Pytorch ](https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![ Tensorflow ](https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![ Openai ](https://img.shields.io/badge/Openai-193718?style=flat-square&logo=openai&logoColor=white) ![ Numpy ](https://img.shields.io/badge/Numpy-4DABCF?style=flat-square&logo=numpy&logoColor=white) ![ Deepseek ](https://img.shields.io/badge/Deepseek-4D6BFE?style=flat-square&logo=deepseek&logoColor=white) ![ Anthropic ](https://img.shields.io/badge/Anthropic-FAFAF7?style=flat-square&logo=anthropic&logoColor=black) ![ OpenCV ](https://img.shields.io/badge/OpenCV-128DFF?style=flat-square&logo=opencv&logoColor=white) ![ Kaggle ](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white) ![ Jupyter ](https://img.shields.io/badge/Jupyter-767677?style=flat-square&logo=jupyter&logoColor=white)
+
+#### 🎨 Design & Creative
+
+![ Rive ](https://img.shields.io/badge/Rive-FF3E5A?style=flat-square&logo=rive&logoColor=white) ![ Spline ](https://img.shields.io/badge/Spline-5B5BD6?style=flat-square&logo=spline&logoColor=white) ![ Figma ](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![ Sketch ](https://img.shields.io/badge/Sketch-F7B500?style=flat-square&logo=sketch&logoColor=white) ![ Photoshop ](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=photoshop&logoColor=white) ![ GIMP ](https://img.shields.io/badge/GIMP-5C5543?style=flat-square&logo=gimp&logoColor=white) ![ Illustrator ](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=illustrator&logoColor=white) ![ Inkscape ](https://img.shields.io/badge/Inkscape-000000?style=flat-square&logo=inkscape&logoColor=white) ![ Affinity Designer ](https://img.shields.io/badge/Affinity%20Designer-1B72BE?style=flat-square&logo=affinity-designer&logoColor=white) ![ Canva ](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white) ![ Adobe After Effects ](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=flat-square&logo=adobe-after-effects&logoColor=white) ![ Adobe Premiere ](https://img.shields.io/badge/Adobe%20Premiere-9999FF?style=flat-square&logo=adobe-premiere&logoColor=white) ![ DaVinci Resolve ](https://img.shields.io/badge/DaVinci%20Resolve-233A51?style=flat-square&logo=davinci-resolve&logoColor=white) ![ Adobe Express ](https://img.shields.io/badge/Adobe%20Express-000B1D?style=flat-square&logo=adobe-express&logoColor=white) ![ Adobe Premiere Pro ](https://img.shields.io/badge/Adobe%20Premiere%20Pro-00005B?style=flat-square&logo=adobe-premiere-pro&logoColor=white) ![ Blender ](https://img.shields.io/badge/Blender-235785?style=flat-square&logo=blender&logoColor=white)
+
+#### 🛠️ Tools & Productivity
+
+![ Git ](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![ GitHub ](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![ Husky ](https://img.shields.io/badge/Husky-42B983?style=flat-square&logo=husky&logoColor=white) ![ Notion ](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white) ![ Trello ](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white) ![ Asana ](https://img.shields.io/badge/Asana-F06A6A?style=flat-square&logo=asana&logoColor=white) ![ Jira ](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) ![ Microsoft 365 ](https://img.shields.io/badge/Microsoft%20365-D83B01?style=flat-square&logo=microsoft-365&logoColor=white) ![ Google Workspace ](https://img.shields.io/badge/Google%20Workspace-4285F4?style=flat-square&logo=google-workspace&logoColor=white) ![ n8n ](https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white) ![ Make ](https://img.shields.io/badge/Make-6D3AFF?style=flat-square&logo=make&logoColor=white) ![ Slack ](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white) ![ Android Studio ](https://img.shields.io/badge/Android%20Studio-FFF?style=flat-square&logo=android-studio&logoColor=white) ![ Android ](https://img.shields.io/badge/Android-A4C639?style=flat-square&logo=android&logoColor=white) ![ Gradle ](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white) ![ Jetbrains ](https://img.shields.io/badge/Jetbrains-FE2857?style=flat-square&logo=jetbrains&logoColor=white) ![ Openrouter ](https://img.shields.io/badge/Openrouter-000?style=flat-square&logo=openrouter&logoColor=white) ![ CodeX ](https://img.shields.io/badge/CodeX-000?style=flat-square&logo=codex&logoColor=white) ![ Overleaf ](https://img.shields.io/badge/Overleaf-046530?style=flat-square&logo=overleaf&logoColor=white) ![ Powershell ](https://img.shields.io/badge/Powershell-A9C8FF?style=flat-square&logo=powershell&logoColor=white) ![ Vscode ](https://img.shields.io/badge/Vscode-FFFFFF?style=flat-square&logo=vscode&logoColor=white) ![ WordPress ](https://img.shields.io/badge/WordPress-32373C?style=flat-square&logo=wordpress&logoColor=white) ![ Npm ](https://img.shields.io/badge/Npm-C00?style=flat-square&logo=npm&logoColor=white) ![ Github Copilot ](https://img.shields.io/badge/Github%20Copilot-000?style=flat-square&logo=github-copilot&logoColor=white) ![ Esbuild ](https://img.shields.io/badge/Esbuild-FFCF00?style=flat-square&logo=esbuild&logoColor=white) ![ Eslint ](https://img.shields.io/badge/Eslint-8080F2?style=flat-square&logo=eslint&logoColor=white) ![ WebStorm ](https://img.shields.io/badge/WebStorm-07C3F2?style=flat-square&logo=webstorm&logoColor=white) ![ PyCharm ](https://img.shields.io/badge/PyCharm-21D789?style=flat-square&logo=pycharm&logoColor=white) ![ Postman ](https://img.shields.io/badge/Postman-F37036?style=flat-square&logo=postman&logoColor=white) ![ IntelliJ IDEA ](https://img.shields.io/badge/IntelliJ%20IDEA-FC801D?style=flat-square&logo=intellij-idea&logoColor=white) ![ CLion ](https://img.shields.io/badge/CLion-FF318C?style=flat-square&logo=clion&logoColor=white)
+
+#### 🌐 Infrastructure & OS
+
+![ Liveblocks ](https://img.shields.io/badge/Liveblocks-111111?style=flat-square&logo=liveblocks&logoColor=white) ![ WebAssembly ](https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white) ![ Jest ](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white) ![ Flutter ](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![ React Native ](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react-native&logoColor=white) ![ Cloudflare ](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) ![ Netlify ](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white) ![ Vercel ](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![ AWS ](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=aws&logoColor=white) ![ Docker ](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![ Linux ](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white) ![ Windows ](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white) ![ Obsidian ](https://img.shields.io/badge/Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white) ![ Antigravity ](https://img.shields.io/badge/Antigravity-3186FF?style=flat-square&logo=antigravity&logoColor=white) ![ Cpanel ](https://img.shields.io/badge/Cpanel-F26C32?style=flat-square&logo=cpanel&logoColor=white) ![ GitLab ](https://img.shields.io/badge/GitLab-8C929D?style=flat-square&logo=gitlab&logoColor=white) ![ Google Developers ](https://img.shields.io/badge/Google%20Developers-EA4335?style=flat-square&logo=google-developers&logoColor=white) ![ Markdown ](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white) ![ Graphql ](https://img.shields.io/badge/Graphql-E535AB?style=flat-square&logo=graphql&logoColor=white) ![ Edge ](https://img.shields.io/badge/Edge-35C1F1?style=flat-square&logo=edge&logoColor=white) ![ Digitalocean ](https://img.shields.io/badge/Digitalocean-0080FF?style=flat-square&logo=digitalocean&logoColor=white) ![ Copilot ](https://img.shields.io/badge/Copilot-00AEFF?style=flat-square&logo=copilot&logoColor=white) ![ Bash ](https://img.shields.io/badge/Bash-FFF?style=flat-square&logo=bash&logoColor=white) ![ Ubuntu ](https://img.shields.io/badge/Ubuntu-DD4814?style=flat-square&logo=ubuntu&logoColor=white) ![ Raspberry Pi ](https://img.shields.io/badge/Raspberry%20Pi-050606?style=flat-square&logo=raspberry-pi&logoColor=white) ![ Anaconda ](https://img.shields.io/badge/Anaconda-3EB049?style=flat-square&logo=anaconda&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
 <p align="center">
-  <a href="https://linkedin.com/in/muntasiractive"><img src="https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://stackoverflow.com/users/31825546/muntasiractive"><img src="https://img.shields.io/badge/Stack_Overflow-1a1a1a?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
-  <a href="https://kaggle.com/muntasiractive"><img src="https://img.shields.io/badge/Kaggle-1a1a1a?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
-  <a href="https://www.codechef.com/users/muntasiractive"><img src="https://img.shields.io/badge/CodeChef-1a1a1a?style=for-the-badge&logo=codechef&logoColor=white" /></a>
-  <a href="https://codeforces.com/profile/muntasiractive"><img src="https://img.shields.io/badge/Codeforces-1a1a1a?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
-  <a href="https://leetcode.com/muntasiractive"><img src="https://img.shields.io/badge/LeetCode-1a1a1a?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/muntasiractive/profile"><img src="https://img.shields.io/badge/GeeksForGeeks-1a1a1a?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
-  <a href="https://www.topcoder.com/members/muntasiractive"><img src="https://img.shields.io/badge/TopCoder-1a1a1a?style=for-the-badge&logo=topcoder&logoColor=white" /></a>
-  <a href="https://discord.gg/Y4bB235Y"><img src="https://img.shields.io/badge/Discord-1a1a1a?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=muntasiractive&show_icons=true&theme=transparent&hide_border=true" alt="Muntasir's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muntasiractive&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" height="150" />
 </p>
 
 ---
 
-### ⚡ Technologies I Work With
-<p align="center">
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40" alt="Arduino"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" alt="Bootstrap"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/>
-  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40" height="40" alt="Illustrator"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40" alt="Matlab"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js"/>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40" alt="OpenCV"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40" alt="Photoshop"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40" alt="TensorFlow"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
-</p>
+### 🤝 Let's Work Together
 
----
-<h2 align="center">
-  <i style="color:#8B898B;"></span>📢 Let's Work Together<span style="color:#25aff3;">.</span></i>
-</h2>
-<p align="center">Feel free to connect or collaborate on projects, research, or creative ideas! </p>
+I am always open to collaborating on innovative projects, research, or creative ventures. If you're looking for **workflow architecture, high-end web development, or brand optimization**, feel free to reach out.
+
+- 📧 **Email:** [contact@muntasir.site](mailto:contact@muntasir.site)
+- 🌐 **Portfolio:** [muntasir.site](https://muntasir.site)
+- ☕ **Support:** [Buy me a coffee](https://www.buymeacoffee.com/muntasiractive)
