@@ -1,4 +1,4 @@
-[![Cover](https://raw.githubusercontent.com/joy242-15-740/random/refs/heads/main/cover/muntasir/cover(lg).png)](https://www.muntasir.site/)
+[![Cover](header.svg)](https://www.muntasir.site/)
 
 <div align="center">
 
